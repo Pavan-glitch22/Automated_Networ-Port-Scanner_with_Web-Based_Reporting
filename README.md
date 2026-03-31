@@ -114,8 +114,9 @@ http://<kali-ip>/scan_results.html
 ---
 
 ##  Screenshots
+![Afterautomation1](screenshota_sn/Afterautomation1.png)
 
-
+![Afterautomation2](screenshota_sn/Afterautomation2.png)
 ---
 
 ##  Key Findings
